@@ -1,9 +1,1 @@
 # argo-helm-test
-# argo-helm-test
-# argo-helm-test
-# argo-helm-test
-# argo-helm-test
-# argo-helm-test
-# argo-helm-test
-# argo-helm-test
-# argo-helm-test
