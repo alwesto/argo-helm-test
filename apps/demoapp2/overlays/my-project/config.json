@@ -1,7 +1,7 @@
 {
   "appName": "demoapp2",
   "userGivenName": "demoapp2",
-  "destNamespace": "default",
+  "destNamespace": "new",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/demoapp/overlays/my-project",
   "srcRepoURL": "https://github.com/alwesto/argo-helm-test.git",
